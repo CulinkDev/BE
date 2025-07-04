@@ -1,7 +1,6 @@
 ---
 name: "[bug] 버그 리포트"
 about: 버그나 오류 관련해서 사용하기 위한 이슈 템플릿
-title: "[bug]"
 labels: ''
 assignees: ''
 

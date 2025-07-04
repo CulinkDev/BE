@@ -1,7 +1,6 @@
 ---
 name: "[refactor] 리팩토링"
 about: 리펙토링을 위한 이슈 템플릿
-title: "[refactor]"
 labels: ''
 assignees: ''
 
