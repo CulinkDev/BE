@@ -1,7 +1,7 @@
 ---
-name: "[Feat] 기능 추가"
+name: "[feat] 기능 추가"
 about: 새로운 기능을 추가하기 위한 이슈 템플릿
-title: "[Feat] "
+title: "[feat] "
 labels: ''
 assignees: ''
 

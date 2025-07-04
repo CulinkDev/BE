@@ -1,7 +1,7 @@
 ---
-name: "[Refactor] 리팩토링"
+name: "[refactor] 리팩토링"
 about: 리펙토링을 위한 이슈 템플릿
-title: "[Refactor]"
+title: "[refactor]"
 labels: ''
 assignees: ''
 
